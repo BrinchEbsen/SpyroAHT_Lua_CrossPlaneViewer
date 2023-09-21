@@ -1,0 +1,28 @@
+LevelNames = {
+	Realm1A = "Dragon Village",
+	Realm1B = "Crocovile Swamp",
+	Realm1C = "Dragonfly Falls",
+	Realm1Z = "Gnasty's Cave",
+	Realm2A = "Coastal Remains",
+	Realm2B = "Sunken Ruins",
+	Realm2C = "Cloudy Domain",
+	Realm2Z = "Watery Tomb",
+	Realm3A = "Frostbite Village",
+	Realm3B = "Gloomy Glacier",
+	Realm3C = "Ice Citadel",
+	Realm3Z = "Red's Chamber",
+	Realm4A = "Stormy Beach",
+	Realm4B = "Molten Mount",
+	Realm4C = "Magma Falls",
+	Realm4D = "Dark Mine",
+	Realm4E = "Red's Laboratory",
+	Realm4Z = "Red's Lair",
+	
+	R1LinkAB = "Tunnel DV to CS",
+	R1LinkAC = "Ball Gadget DV to DF",
+	R2LinkAB = "Elevator CR to SR",
+	R2LinkAC = "Elevator CR to CD",
+	R4LinkBC = "Elevator MM to MF",
+	R4LinkCD = "Tunnel MF to DM",
+	R4LinkDE = "Tunnel DM to RL"
+}
